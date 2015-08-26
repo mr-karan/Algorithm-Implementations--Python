@@ -7,3 +7,10 @@ Notes  :
 ToDo :
 -  [ ] Peak Finder problem (1D,2D)
 -  [ ] Document Distance Problem
+-  [ ] Insertion Sort
+-  [ ] Merge Sort
+-  [ ] Heap Sort
+-  [ ] BST
+-  [ ] AVL Sort
+-  [ ] Counting Sort
+-  [ ] Radix Sort
