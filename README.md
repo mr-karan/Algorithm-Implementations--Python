@@ -10,8 +10,9 @@ ToDo :
 -  [ ] Heap Sort
 -  [ ] BST
 -  [ ] AVL Sort
--  [ ] Knapsack Problem
--  [ ] Minimum Spanning Tree
+-  [ ] Knapsack Problem {0,1}
+-  [ ] Minimum Spanning Tree kruskal's/prim's
 -  [ ] Counting Sort
 -  [ ] Radix Sort
 -  [ ] Djisktras shortest path
+-  [ ] Tree Vertex Splitting problem
